@@ -12,7 +12,7 @@ I certainly recommend it as it bring very useful topics, insights and advise and
 **best practices for creating prompts and explore examples of impactful prompts.**
 
 
-## Prompt##:
+## Prompt:
 
 **create an image for AI prompt engineering make it colorful but not too full of objects and suitable for common computer users. you being a recognized computer graphics artits**
 ![IMAGE AI](prompt.jpeg)
