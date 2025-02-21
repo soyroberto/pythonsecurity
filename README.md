@@ -1,6 +1,6 @@
 ## Generative AI: Prompt Engineering Basics
 
-**I created this Python code to monitor the creation of XLS files inside a folder. Files are deleted on the spot**
+**I created this Python code to monitor the creation of XLS files inside a folder. Files are deleted on the spot. The exercise was about using a AI agent to create and inject malicious code**
 
 
 I ran over a course at Coursera, very useful and insightful about how to properly **PROMPT**  and ask the righ questions to AI services:
