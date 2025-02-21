@@ -15,5 +15,5 @@ I certainly recommend it as it bring very useful topics, insights and advise and
 ## Prompt##:
 
 **create an image for AI prompt engineering make it colorful but not too full of objects and suitable for common computer users. you being a recognized computer graphics artits**
-![IMAGE AI](prompt.jpg)
+![IMAGE AI](prompt.jpeg)
 Image by BING
