@@ -17,3 +17,6 @@ I certainly recommend it as it bring very useful topics, insights and advise and
 **create an image for AI prompt engineering make it colorful but not too full of objects and suitable for common computer users. you being a recognized computer graphics artits**
 ![IMAGE AI](prompt.jpeg)
 Image by BING
+
+Link to the training:
+https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone
